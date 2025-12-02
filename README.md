@@ -41,7 +41,7 @@ The scraper is fully modular, supports pagination, includes a date-based stoppin
 techcrunch-news-scraper/
 │
 ├── README.md
-├── techcrunch_scraper.py
+├── techcrunch_scraper.ipynb
 │
 ├── data/
     └── techcrunch_articles_2025.csv
