@@ -1,5 +1,6 @@
 # techcrunch-news-scraper
 A Python-based web scraping project that collects article metadata (author, title, category, published date, and URL) from TechCrunch using requests and BeautifulSoup.
+Website Link: https://techcrunch.com/latest/
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-BeautifulSoup-green)
